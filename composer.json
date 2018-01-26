@@ -4,7 +4,7 @@
     "type": "yii2-extension",
     "require": {
         "yiisoft/yii2": "^2",
-        "paragraph1/php-fcm": "^0.7"
+        "paragraph1/php-fcm": "^0.8"
     },
     "license": "MIT",
     "authors": [
@@ -18,5 +18,11 @@
         "psr-4": {
             "understeam\\fcm\\": "src"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/MatthewPattell/php-fcm"
+        }
+    ]
 }
