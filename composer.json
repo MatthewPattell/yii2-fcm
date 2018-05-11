@@ -13,7 +13,6 @@
             "email": "anatoly.rugalev@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "understeam\\fcm\\": "src"
